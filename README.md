@@ -1,8 +1,8 @@
 ## Hello!👋 My name is Israel Gonçalves.
 
 - 🔭 I am currently a bachelor's student in computer engineering at Senai Cimatec University
-- 🌱 I am currently studying C Language and Python Language
-- 📫 How to reach me: israelgoncalvesx@gmail.com
+- 🌱 I am currently studying C++ Language and Python Language
+- 📫 How to reach me: israel.s@aln.senaicimatec.edu.br
 - 😄 Pronouns: He/Him
 
   ![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelgoncalvesx&show_icons=true&theme=dracula)
