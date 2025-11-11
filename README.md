@@ -1,7 +1,7 @@
 ## Hello!👋 My name is Israel Gonçalves.
 
 - 🔭 I am currently a bachelor's student in computer engineering at Senai Cimatec University
-- 🌱 I am currently studying PHP Language and Python Language
+- 🌱 I am currently studying Machine Learning and Artificial Inteligence
 - 📫 How to reach me: israel.s@aln.senaicimatec.edu.br
 - 😄 Pronouns: He/Him
 
