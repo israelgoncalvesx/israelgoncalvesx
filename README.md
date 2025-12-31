@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Olá,%20eu%20sou%20Israel!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Engenharia%20da%20Computação%20-%20Universidade%20Senai%20Cimatec&descAlignY=55&descAlign=60" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Olá,%20eu%20sou%20Israel!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Engenharia%20da%20Computação%20-%20Senai%20Cimatec&descAlignY=55&descAlign=60" alt="Header Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -86,7 +86,7 @@ Estou dividindo meus estudos em duas trilhas principais:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=israelgoncalvesx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Github Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=israelgoncalvesx&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Github Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgoncalvesx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
