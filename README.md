@@ -29,7 +29,7 @@
 
 # Hi there! I'm a Computer Engineering Student 🚀
 
-I'm currently in my **3rd semester** of Computer Engineering at **SENAI Cimatec** (Brazil). I am passionate about building robust systems and exploring the frontiers of Artificial Intelligence.
+I'm currently in my **3rd semester** of Computer Engineering at **Universidade Senai Cimatec** (Brazil). I am passionate about building robust systems and exploring the frontiers of Artificial Intelligence.
 
 ### 🔭 Current Focus & Studies
 
@@ -48,7 +48,7 @@ I am currently dividing my studies into two main tracks:
 
 # Olá! Sou estudante de Engenharia da Computação 🚀
 
-Atualmente estou no **3º semestre** de Engenharia da Computação no **SENAI Cimatec**. Sou apaixonado por construir sistemas robustos e explorar as fronteiras da Inteligência Artificial.
+Atualmente estou no **3º semestre** de Engenharia da Computação no **Universidade Senai Cimatec**. Sou apaixonado por construir sistemas robustos e explorar as fronteiras da Inteligência Artificial.
 
 ### 🔭 Foco Atual e Estudos
 
@@ -65,33 +65,26 @@ Estou dividindo meus estudos em duas trilhas principais:
 
 ### 🛠️ Technology Stack
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,python,sklearn,git,postman&theme=light" />
 </div>
 
 ---
 
 <div align="center">
 
-### 📊 My GitHub Stats
+### 🚀 Minha Jornada Acadêmica
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=israelgoncalvesx&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgoncalvesx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+| 🎓 Semestre Atual | 📚 Foco de Estudo | 💼 Status Profissional |
+| :---: | :---: | :---: |
+| **3º Semestre** | **Machine Learning & Java** | **Buscando Oportunidades** |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israelgoncalvesx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
+
+| 🏆 Metas de Aprendizado | Status |
+| :--- | :--- |
+| ☕ **Dominar Spring Boot & APIs** | ✅ Em progresso |
+| 🤖 **Fundamentos de Machine Learning** | 🔄 Estudando |
+| 🧠 **Deep Learning & LLMs** | 📅 Planejado (Futuro) |
 
 </div>
