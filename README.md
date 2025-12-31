@@ -86,8 +86,8 @@ Estou dividindo meus estudos em duas trilhas principais:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Github Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=israelgoncalvesx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Github Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgoncalvesx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
