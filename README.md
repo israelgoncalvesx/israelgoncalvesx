@@ -47,3 +47,19 @@
 </p>
 
 </div>
+
+---
+
+## 📊 Métricas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=israelgoncalvesx&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub">
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgoncalvesx&layout=compact&locale=pt-br" alt="Linguagens mais utilizadas">
+</p>
+
+<p align="center">
+  <i>Aprendendo, construindo e transformando dados em conhecimento.</i>
+</p>
