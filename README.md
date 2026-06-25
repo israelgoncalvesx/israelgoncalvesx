@@ -44,11 +44,18 @@ I am focused on **Data Science, Machine Learning and Artificial Intelligence**, 
 
 # Olá! Eu sou Israel 📊🤖
 
-Sou estudante do **3º semestre de Engenharia da Computação** na **Universidade SENAI CIMATEC**.
-
-Tenho foco em **Ciência de Dados, Machine Learning e Inteligência Artificial**, desenvolvendo projetos com Python e tecnologias orientadas a dados.
-
 </div>
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante do **3º semestre de Engenharia da Computação** na **Universidade SENAI CIMATEC**
+- 📊 Focado em **Ciência de Dados, Machine Learning e Inteligência Artificial**
+- 🐍 Utilizo **Python** para análise de dados, automação e desenvolvimento de projetos
+- 🌱 Atualmente estudando **análise exploratória de dados, modelos de Machine Learning e fundamentos de IA**
+- 🔬 Participo de projetos acadêmicos envolvendo **simulação, análise de dados e tecnologia aplicada**
+- 🧠 Tenho interesse em **Engenharia de IA, Engenharia de Dados e aplicações inteligentes**
+- 🤝 Busco colaborar em projetos de **dados, Machine Learning e IA aplicada**
+- 🎯 Meu objetivo é aprender por meio de projetos e construir um **portfólio sólido na área de dados**
 
 ---
 
