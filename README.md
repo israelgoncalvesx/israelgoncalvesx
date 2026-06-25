@@ -28,21 +28,11 @@
 
 <div align="center">
 
-# Hi! I'm a Computer Engineering student 📊🤖
+# Hi! I'm Israel 📊🤖
 
-I am currently in my **3rd semester of Computer Engineering** at **Universidade SENAI CIMATEC**, in Brazil.
+I am a **Computer Engineering student** at **Universidade SENAI CIMATEC**, currently in my **3rd semester**.
 
-My studies and projects are focused on **Data Science, Machine Learning and Artificial Intelligence**. I use **Python** to explore, process and visualize data, as well as to build and evaluate Machine Learning models.
-
-### 🔭 Current focus
-
-- Data analysis and visualization
-- Data cleaning and preprocessing
-- Exploratory Data Analysis
-- Supervised Machine Learning
-- Model training and evaluation
-- Artificial Intelligence and Deep Learning fundamentals
-- Development of practical data projects for my portfolio
+I am focused on **Data Science, Machine Learning and Artificial Intelligence**, developing projects with Python and data-driven technologies.
 
 </div>
 
@@ -52,21 +42,11 @@ My studies and projects are focused on **Data Science, Machine Learning and Arti
 
 <div align="center">
 
-# Olá! Sou estudante de Engenharia da Computação 📊🤖
+# Olá! Eu sou Israel 📊🤖
 
-Atualmente estou no **3º semestre de Engenharia da Computação** na **Universidade SENAI CIMATEC**.
+Sou estudante do **3º semestre de Engenharia da Computação** na **Universidade SENAI CIMATEC**.
 
-Meus estudos e projetos são voltados para **Ciência de Dados, Machine Learning e Inteligência Artificial**. Utilizo **Python** para explorar, tratar e visualizar dados, além de desenvolver e avaliar modelos de Machine Learning.
-
-### 🔭 Foco atual
-
-- Análise e visualização de dados
-- Limpeza e preparação de dados
-- Análise Exploratória de Dados
-- Machine Learning supervisionado
-- Treinamento e avaliação de modelos
-- Fundamentos de Inteligência Artificial e Deep Learning
-- Desenvolvimento de projetos práticos para meu portfólio de dados
+Tenho foco em **Ciência de Dados, Machine Learning e Inteligência Artificial**, desenvolvendo projetos com Python e tecnologias orientadas a dados.
 
 </div>
 
@@ -74,7 +54,7 @@ Meus estudos e projetos são voltados para **Ciência de Dados, Machine Learning
 
 <div align="center">
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -84,25 +64,6 @@ Meus estudos e projetos são voltados para **Ciência de Dados, Machine Learning
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
----
-
-## 🚀 Minha jornada de aprendizado
-
-| 🎓 Formação | 📚 Área de foco | 💼 Objetivo |
-| :---: | :---: | :---: |
-| **3º semestre de Engenharia da Computação** | **Ciência de Dados, Machine Learning e IA** | **Construir experiência e portfólio na área de dados** |
-
-<br/>
-
-| 🧠 Objetivos de aprendizado | Status |
-| :--- | :---: |
-| **Análise de dados com Python e Pandas** | 🔄 Estudando |
-| **Modelos de classificação e regressão** | 🔄 Estudando |
-| **Estatística aplicada à Ciência de Dados** | 🔄 Estudando |
-| **Deep Learning** | 📅 Próximo passo |
-| **LLMs, IA generativa e RAG** | 📅 Planejado |
 
 </div>
