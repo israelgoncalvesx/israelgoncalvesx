@@ -61,5 +61,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israelgoncalvesx" alt="Sequência de contribuições">
+</p>
+
+<p align="center">
   <i>Aprendendo, construindo e transformando dados em conhecimento.</i>
 </p>
