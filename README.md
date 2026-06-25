@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Olá,%20eu%20sou%20Israel!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Engenharia%20da%20Computação%20-%20Universidade%20Senai%20Cimatec&descAlignY=55&descAlign=50" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Olá,%20eu%20sou%20Israel!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Ciência%20de%20Dados%20%7C%20Machine%20Learning%20%7C%20Inteligência%20Artificial&descAlignY=55&descAlign=50" alt="Header Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Ler%20em-Português-green?style=for-the-badge" alt="Ler em Português">
   </a>
 </div>
+
 <br/>
 
 <div align="center">
@@ -27,16 +28,21 @@
 
 <div align="center">
 
-# Hi there! I'm a Computer Engineering Student 🚀
+# Hi! I'm a Computer Engineering student 📊🤖
 
-I'm currently in my **3rd semester** of Computer Engineering at **Universidade Senai Cimatec** (Brazil). I am passionate about building robust systems and exploring the frontiers of Artificial Intelligence.
+I am currently in my **3rd semester of Computer Engineering** at **Universidade SENAI CIMATEC**, in Brazil.
 
-### 🔭 Current Focus & Studies
+My studies and projects are focused on **Data Science, Machine Learning and Artificial Intelligence**. I use **Python** to explore, process and visualize data, as well as to build and evaluate Machine Learning models.
 
-I am currently dividing my studies into two main tracks:
+### 🔭 Current focus
 
-* **Back-end Development:** Specializing in the Java ecosystem. Building scalable applications with **Java**, **Spring Boot**, managing databases with **MongoDB**, and designing **RESTful APIs**.
-* **AI Engineering:** Currently studying **Machine Learning** fundamentals, with future goals to dive deep into **Deep Learning** and **LLMs**.
+- Data analysis and visualization
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Supervised Machine Learning
+- Model training and evaluation
+- Artificial Intelligence and Deep Learning fundamentals
+- Development of practical data projects for my portfolio
 
 </div>
 
@@ -46,16 +52,21 @@ I am currently dividing my studies into two main tracks:
 
 <div align="center">
 
-# Olá! Sou estudante de Engenharia da Computação 🚀
+# Olá! Sou estudante de Engenharia da Computação 📊🤖
 
-Atualmente estou no **3º semestre** de Engenharia da Computação no **Universidade Senai Cimatec**. Sou apaixonado por construir sistemas robustos e explorar as fronteiras da Inteligência Artificial.
+Atualmente estou no **3º semestre de Engenharia da Computação** na **Universidade SENAI CIMATEC**.
 
-### 🔭 Foco Atual e Estudos
+Meus estudos e projetos são voltados para **Ciência de Dados, Machine Learning e Inteligência Artificial**. Utilizo **Python** para explorar, tratar e visualizar dados, além de desenvolver e avaliar modelos de Machine Learning.
 
-Estou dividindo meus estudos em duas trilhas principais:
+### 🔭 Foco atual
 
-* **Desenvolvimento Back-end:** Especializando-me no ecossistema Java. Construção de aplicações escaláveis com **Java** e **Spring Boot**, gerenciamento de banco de dados com **MongoDB** e design de **APIs RESTful**.
-* **Engenharia de IA:** Atualmente estudando os fundamentos de **Machine Learning**, com planos futuros de aprofundamento em **Deep Learning** e **LLMs**.
+- Análise e visualização de dados
+- Limpeza e preparação de dados
+- Análise Exploratória de Dados
+- Machine Learning supervisionado
+- Treinamento e avaliação de modelos
+- Fundamentos de Inteligência Artificial e Deep Learning
+- Desenvolvimento de projetos práticos para meu portfólio de dados
 
 </div>
 
@@ -63,28 +74,35 @@ Estou dividindo meus estudos em duas trilhas principais:
 
 <div align="center">
 
-### 🛠️ Technology Stack
+## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,python,sklearn,git,postman&theme=light" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Minha jornada de aprendizado
 
-### 🚀 Minha Jornada Acadêmica
-
-| 🎓 Semestre Atual | 📚 Foco de Estudo | 💼 Status Profissional |
+| 🎓 Formação | 📚 Área de foco | 💼 Objetivo |
 | :---: | :---: | :---: |
-| **3º Semestre** | **Machine Learning & Java** | **Buscando Oportunidades** |
+| **3º semestre de Engenharia da Computação** | **Ciência de Dados, Machine Learning e IA** | **Construir experiência e portfólio na área de dados** |
 
 <br/>
 
-| 🏆 Metas de Aprendizado | Status |
-| :--- | :--- |
-| ☕ **Dominar Spring Boot & APIs** | ✅ Em progresso |
-| 🤖 **Fundamentos de Machine Learning** | 🔄 Estudando |
-| 🧠 **Deep Learning & LLMs** | 📅 Planejado (Futuro) |
+| 🧠 Objetivos de aprendizado | Status |
+| :--- | :---: |
+| **Análise de dados com Python e Pandas** | 🔄 Estudando |
+| **Modelos de classificação e regressão** | 🔄 Estudando |
+| **Estatística aplicada à Ciência de Dados** | 🔄 Estudando |
+| **Deep Learning** | 📅 Próximo passo |
+| **LLMs, IA generativa e RAG** | 📅 Planejado |
 
 </div>
